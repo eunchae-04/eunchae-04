@@ -4,13 +4,13 @@
 ## 📊 Statistics
 
 #### 🐙 GitHub Activities
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eunchae-04&theme=dark&show_icons=true" alt="Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=eunchae-04&theme=dark" alt="Streak" />
 </p>
 
-#### 🏆 Problem Solving & Languages
-<p align="center">
+#### 🏆 Languages & Problem Solving 
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunchae-04&theme=dark&layout=compact" alt="Languages" />
   <a href="https://solved.ac/eunchae04">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunchae04&theme=dark" alt="Solved.ac Profile" />
