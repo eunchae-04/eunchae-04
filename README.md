@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA4MDZfMjE4%2FMDAxNzU0NDA3NTI1MzY4.I-WGPspGhK6Loac_Hn8s_YxvIBi6KB3Eh9zYGKhRlTgg.I5JDCFaDlnskA19O2rldHdUQ6p0xstaaoi1yc6uqJgUg.PNG%2Fimage.png&type=sc960_832" />
-</p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eunchae-04&theme=dark&show_icons=true" alt="Stats" />
   <a href="https://solved.ac/eunchae04">
