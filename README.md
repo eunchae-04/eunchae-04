@@ -1,17 +1,7 @@
-# 🚀 Welcome to eunchae's Space
 <img src="https://i.pinimg.com/originals/ac/a8/f0/aca8f0361de3c872cbb0fc4acf0a4009.png" />
 
-## 📊 Statistics
-
-#### 🐙 GitHub Activities
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eunchae-04&theme=dark&show_icons=true" alt="Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=eunchae-04&theme=dark" alt="Streak" />
-</p>
-
-#### 🏆 Languages & Problem Solving 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunchae-04&theme=dark&layout=compact" alt="Languages" />
   <a href="https://solved.ac/eunchae04">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunchae04&theme=dark" alt="Solved.ac Profile" />
   </a>
