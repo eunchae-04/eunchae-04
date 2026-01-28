@@ -32,23 +32,27 @@
 
 
 ## 📁 Projects
-
-#### 1️⃣  **Kakao Gift Page Clone**  
-  카카오톡 선물하기 페이지 클론 코딩 (2025.06 ~ 2025.07)
+#### 1️⃣ 포켓몬 도감 (PokemonDex)
+  포켓몬 API를 활용한 포켓몬 도감 웹 애플리케이션 (2025.05.19 ~ 2025.05.25)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eunchae-04&repo=PokemonDex&theme=tokyonight)](https://github.com/eunchae-04/PokemonDex)
+  
+#### 2️⃣ Kakao Gift Page Clone
+  카카오톡 선물하기 페이지 클론 코딩 (2025.06.23 ~ 2025.08.01)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eunchae-04&repo=react-gift-product-detail&theme=tokyonight)](https://github.com/eunchae-04/react-gift-product-detail)
 
-#### 2️⃣ **무쉼사:무더위 쉼터를 찾는 사람들**  
+#### 3️⃣ 무쉼사:무더위 쉼터를 찾는 사람들  
   폭염 대비 무더위 쉼터 정보 제공 서비스 (2025.08 ~ 2025.11)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eunchae-04&repo=Team19_FE&theme=tokyonight)](https://github.com/eunchae-04/Team19_FE)
 
-#### 3️⃣ **TM4C123G Line Tracer**  
+#### 4️⃣ TM4C123G Line Tracer
   Embedded 시스템 기반 라인트레이서 로봇 제작 (2025.11 ~ 2025.12)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eunchae-04&repo=Line-tracking&theme=tokyonight)](https://github.com/eunchae-04/Line-tracking)
   
-#### 4️⃣ **Algorithm File Searcher**  
+#### 5️⃣ Algorithm File Searcher  
   파일 탐색 알고리즘 기반 검색 프로그램 (2025.11 ~ 2025.12)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eunchae-04&repo=algorithms&theme=tokyonight)](https://github.com/eunchae-04/algorithms)
