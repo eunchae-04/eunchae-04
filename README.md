@@ -53,4 +53,4 @@
 #### 5️⃣ Algorithm File Searcher  
   파일 탐색 알고리즘 기반 검색 프로그램 (2025.11 ~ 2025.12)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eunchae-04&repo=algorithms&theme=tokyonight)](https://github.com/eunchae-04/algorithms)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eunchae-04&repo=Algorithm-File-Searcher&theme=tokyonight)](https://github.com/eunchae-04/Algorithm-File-Searcher)
